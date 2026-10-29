@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Гербера мини</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M0 0 C13 -12 7.8 -38.4 0 -48 C-7.8 -38.4 -13 -12 0 0 Z" fill="#6aa84f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(126 226) rotate(-44)"/>
+  <path d="M0 -3.8 C1.6 -14.4 1 -28.8 0 -37.4 C-1 -28.8 -1.6 -14.4 0 -3.8 Z" fill="#3f7a2f" transform="translate(126 226) rotate(-44)"/>
+  <polygon points="132,225.8 131.6,219.2 131.2,212.7 130.9,206.2 130.6,199.8 130.4,193.4 130.2,187 130,180.7 129.9,174.4 129.8,168.2 129.8,162 129.7,155.8 129.8,149.7 129.9,143.7 130,137.6 130.1,131.6 130.3,125.7 130.6,119.7 130.8,113.9 131.1,108 131.5,102.2 124.5,101.8 124.1,107.6 123.7,113.5 123.4,119.4 123.1,125.4 122.9,131.4 122.7,137.4 122.5,143.5 122.4,149.6 122.3,155.8 122.2,162 122.2,168.2 122.3,174.5 122.4,180.9 122.5,187.2 122.6,193.6 122.8,200.1 123.1,206.5 123.3,213.1 123.7,219.6 124,226.2" fill="#4f8a3c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(0)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(24)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(48)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(72)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(96)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(120)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(144)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(168)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(192)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(216)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(240)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(264)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(288)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(312)"/>
+  <path d="M-4 -10 C-9.9 -26.5 -9 -38.2 0 -40 C9 -38.2 9.9 -26.5 4 -10 Z" fill="#ff4f79" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 92) rotate(336)"/>
+  <circle cx="128" cy="92" r="14" fill="#f2c200" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="92" r="7" fill="#3b2a1a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M119 88 C121 82 127 80 133 81 C127 84 122 85 119 88 Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Подарки и аксессуары</title>
+  <circle cx="128" cy="128" r="116" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4"/>
+  <rect x="72" y="114" width="112" height="86" fill="#e07a1f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M156 114L184 114L184 200L156 200Z" fill="#000000" fill-opacity="0.15"/>
+  <rect x="64" y="92" width="128" height="26" rx="3" fill="#f08c30" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="118" y="92" width="20" height="108" fill="#c8102e" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 90Q96 50 80 66Q72 84 128 90Z" fill="#c8102e" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 90Q160 50 176 66Q184 84 128 90Z" fill="#c8102e" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="88" r="8" fill="#a50d26" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M80 124L92 124L92 192L80 192Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

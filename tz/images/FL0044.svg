@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Аспидистра</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M134.5 227.7 L134.3 224.6 L134 221.5 L133.8 218.3 L133.6 215.2 L133.4 212.1 L133.2 209 L132.9 205.9 L132.7 202.8 L132.5 199.7 L132.3 196.6 L132 193.5 L131.8 190.3 L131.6 187.2 L131.4 184.1 L131.2 181 L130.9 177.9 L130.7 174.8 L130.5 171.7 L121.5 172.3 L121.7 175.4 L122 178.5 L122.2 181.7 L122.4 184.8 L122.6 187.9 L122.8 191 L123.1 194.1 L123.3 197.2 L123.5 200.3 L123.7 203.4 L124 206.5 L124.2 209.7 L124.4 212.8 L124.6 215.9 L124.8 219 L125.1 222.1 L125.3 225.2 L125.5 228.3Z" fill="#4f8a3c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M126 178C56 150 62 62 150 18C192 74 186 150 126 178Z" fill="#1b5e20" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M126 178C164 150 170 88 150 18C192 74 186 150 126 178Z" fill="#000000" fill-opacity="0.15"/>
+  <path d="M126 176Q132 96 150 22" fill="none" stroke="#6aa84f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M129.8 136.4 Q107.8 134.4 91.8 118.9" fill="none" stroke="#2f7a33" stroke-width="4" stroke-linecap="round"/>
+  <path d="M133.8 105.2 Q111.8 103.2 95.8 89.7" fill="none" stroke="#2f7a33" stroke-width="4" stroke-linecap="round"/>
+  <path d="M138.9 74.5 Q116.9 72.5 100.9 61" fill="none" stroke="#2f7a33" stroke-width="4" stroke-linecap="round"/>
+  <path d="M110 150C84 126 88 82 128 46C106 86 102 120 110 150Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

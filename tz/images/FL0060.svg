@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Лента атласная XL</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M 122,120 L 88,212 L 102,204 L 112,218 L 140,124 Z" fill="#901135" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 134,120 L 164,216 L 176,202 L 190,210 L 146,118 Z" fill="#901135" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,112 C 118,42 58,16 42,52 C 32,76 88,98 128,112 Z" fill="#800f2f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,112 C 138,42 198,16 214,52 C 224,76 168,98 128,112 Z" fill="#800f2f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,112 C 88,122 28,142 36,168 C 44,188 98,152 128,112 Z" fill="#800f2f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,112 C 168,122 228,142 220,168 C 212,188 158,152 128,112 Z" fill="#800f2f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,112 C 98,62 40,62 44,104 C 48,138 98,136 128,112 Z" fill="#a4133c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,112 C 158,62 216,62 212,104 C 208,138 158,136 128,112 Z" fill="#a4133c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 122,110 C 102,86 68,82 66,104 C 78,112 104,116 122,110 Z M 134,110 C 154,86 188,82 190,104 C 178,112 152,116 134,110 Z" fill="#000000" fill-opacity="0.15"/>
+  <path d="M 108,90 C 92,74 64,72 54,92 C 68,82 88,82 108,90 Z M 148,90 C 164,74 192,72 202,92 C 188,82 168,82 148,90 Z" fill="#ffffff" fill-opacity="0.35"/>
+  <ellipse cx="128" cy="112" rx="14" ry="16" fill="#971137" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

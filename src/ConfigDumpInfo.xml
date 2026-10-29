@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыНоменклатуры" id="b08365e4-bea7-478c-a970-cd5b791c68c7" configVersion="4ec276d0c4fb6d732cb330fd217d75938dda2efd"/>
+		<Metadata name="Catalog.КлассификаторАлкогольнойПродукцииЕГАИС" id="29a380cf-9dda-44a1-8a75-27cf03647920" configVersion="3c45f56b387c3654e365b4b28b57d9fdfecec9ed"/>
+		<Metadata name="Catalog.НаборыУпаковок" id="f2341ca9-261a-46f0-9380-b9e5b60d53f7" configVersion="66002fbdc8a841d564b8f71da9cfc06d2db97924"/>
+		<Metadata name="Catalog.Номенклатура" id="8ee72f69-1664-4c09-854d-0ee7784d0ccb" configVersion="1e29fbde33347d104dccfac4596b401d79ec6b75">
+			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="9cc93aa3-f584-46bf-b0e7-e0e58f3ca00f"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="a539bba7-9904-4811-9821-2f5cad06943e"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="b851c6ee-e951-4ff6-91d2-59fb19eebd48"/>
+		</Metadata>
+		<Metadata name="Catalog.Пользователи" id="d4320c85-d848-469c-bc76-98e15a0e876e" configVersion="5e9f218e353b33870703299a70eca4e592851953"/>
+		<Metadata name="Catalog.СерииНоменклатуры" id="773f6d69-afe2-4440-ad5a-6ed24e74d192" configVersion="6ceef29e432e2ffcd7eaac480c62243bce67b4b5"/>
+		<Metadata name="Catalog.СкидкиНаценки" id="94c3bdb5-bbf7-48e5-b1d7-683341694243" configVersion="6e78c17ec01c10f03df75f040f500bdce41cd3d2"/>
+		<Metadata name="Catalog.СкладскиеПомещения" id="29d50150-dcab-490f-8f33-24f00ee83c9f" configVersion="adf953da4ff6b7d6667a15e7df320b92c2c0d9ca"/>
+		<Metadata name="Catalog.Склады" id="af5053f0-2720-429d-95b3-2a3bc0a3777a" configVersion="d3cadd837f08d780f023f203a5add26358086b03"/>
+		<Metadata name="Catalog.СтавкиНДС" id="19ca45bc-1c0b-46d8-b042-f9615164b370" configVersion="fee20ec8e8a4fdb60c5e587a6ee0d138f39269d9"/>
+		<Metadata name="Catalog.УпаковкиЕдиницыИзмерения" id="859f1e49-0212-4936-a9d2-66a567ef655e" configVersion="fb6c0b5072914dda14a73566bdb2e821577cad3d"/>
+		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="838a3037-6290-45c2-b0a3-385561700a79" configVersion="ec7db3187c5d1dbc1d7d21c17867810685544f62"/>
+		<Metadata name="CommonModule.цм_ПлиткиТоваровВызовСервера" id="ba114750-97ce-4065-ad70-70cbb26e3edb" configVersion="f110fddba8d9f45853c9c980229b9e8437949b88"/>
+		<Metadata name="CommonModule.цм_ПлиткиТоваровВызовСервера.Module" id="ba114750-97ce-4065-ad70-70cbb26e3edb.0" configVersion="790b4db9515bb843a08b2c08269c4bd13b35f1e2"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="ae4356f5-167a-44e4-90ec-f022a740aa80" configVersion="6193749d41f10eb700c9108f95b61c4734e5f8b5"/>
+		<Metadata name="CommonPicture.Набор" id="cfe90dc3-553f-43dd-8255-e9354d64bf0a" configVersion="464d8f02b034416f79bde0c3b81419003c669a2a"/>
+		<Metadata name="CommonPicture.Наборы" id="b8803c5a-533c-4d35-a917-546d93a796a4" configVersion="813a1da10da3274736a16007c304139e9cc7bc66"/>
+		<Metadata name="CommonPicture.СерииНоменклатурыКолонкаСтатусов" id="64350ffc-b8d4-4eee-8aab-2b882711544e" configVersion="a0ad373c3a8e1a73258cdecceece845b1ee8c8c5"/>
+		<Metadata name="CommonPicture.СтатусыУказанияСерий" id="97c34ae6-480a-45ff-a701-9a63504f78d7" configVersion="6b22890edbefdaa4834988f9eb607070fbd37138"/>
+		<Metadata name="Configuration.ЦветочнаяКасса" id="8998afbe-0f8a-4ccd-83ac-fb91182111b3" configVersion="86d54132e1d00c642db4988b1736e0e93a6e3f8e"/>
+		<Metadata name="DataProcessor.цм_ЗагрузкаНоменклатуры" id="7a8213b6-f101-4c6e-8277-eb611f0cc9e6" configVersion="bf62b27c88852ddf13268e80a74b0fe3ba51ca58">
+			<Metadata name="DataProcessor.цм_ЗагрузкаНоменклатуры.Attribute.КаталогДанных" id="638b379b-6cd9-4d43-9ba3-9d0c1a1e1a94"/>
+		</Metadata>
+		<Metadata name="DataProcessor.цм_ЗагрузкаНоменклатуры.Form.Форма" id="8b6b26cc-d2f6-462e-919a-224bd7e349ce" configVersion="b973b3f4df1451a036063f2655f6642ac03bbf8b"/>
+		<Metadata name="DataProcessor.цм_ЗагрузкаНоменклатуры.Form.Форма.Form" id="8b6b26cc-d2f6-462e-919a-224bd7e349ce.0" configVersion="c8183d34848a6a1bd43229077187d05ad990eb4a"/>
+		<Metadata name="DataProcessor.цм_ЗагрузкаНоменклатуры.ManagerModule" id="7a8213b6-f101-4c6e-8277-eb611f0cc9e6.2" configVersion="0a23cddbdb36855b7503e627a270585838f5ddf0"/>
+		<Metadata name="DataProcessor.цм_ЗагрузкаНоменклатуры.ObjectModule" id="7a8213b6-f101-4c6e-8277-eb611f0cc9e6.0" configVersion="34015200be841a61705d31a9550cc6be91040523"/>
+		<Metadata name="DefinedType.ДенежнаяСуммаЛюбогоЗнака" id="203a1c98-d98e-4abc-ad3d-ada825c5c333" configVersion="7e43741f525d20fc234eb8a6efe3856571f07e2d"/>
+		<Metadata name="DefinedType.ДенежнаяСуммаНеотрицательная" id="b205ee11-2d37-4296-aefd-5630775f4d2f" configVersion="1038ead9e033b058f840e9946221c77a820e418a"/>
+		<Metadata name="DefinedType.Цена" id="98ce0ffe-db0a-49e7-935a-e10187b1f01b" configVersion="930a23a1feb4fd9b00e186e59acd406207423e51"/>
+		<Metadata name="Document.ЧекККМ" id="a2c3dc0f-35b2-4dfe-9b6a-ddfb5ab008c5" configVersion="d7ea8e2ba93e06e7a4afc3d15d8321f58142b99d">
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.КоличествоУпаковок" id="00fac417-9531-4dde-a1ee-03df7e7b66ea"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.СтавкаНДС" id="083671a1-4f72-4421-a42a-b93b0777d3fd"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Номенклатура" id="1e6255eb-bc6c-4577-bdb7-22cbd4529808"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.СуммаНДС" id="1f82a18e-ba66-43a4-87c0-02c432f72c1a"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Цена" id="21a5f384-85ea-47be-9d30-b71cd36014c4"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Продавец" id="35e54063-f897-4242-bb62-46637807d49c"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.СуммаРучнойСкидки" id="3f47a1fb-869f-43d9-b023-394e29a39993"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.ПроцентАвтоматическойСкидки" id="4a53a045-62c1-4573-9d05-19829a0adbbf"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.СуммаБонусныхБалловКСписаниюВВалюте" id="4e48f924-084c-4246-a949-89f4eb4aa596"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Сумма" id="55b2f6be-16f6-4636-ac95-15f631c0014f"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.СкидкиНаценки.Attribute.КлючСвязи" id="5a0a3d41-651c-48cd-9327-dbd3adae698a"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.НоменклатураНабора" id="5fffae55-e242-4941-bd4b-1b4dc87135b9"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.СуммаНачисленныхБонусныхБалловВВалюте" id="6afe1351-89da-4342-934c-bb09b2811876"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.СкидкиНаценки.Attribute.СкидкаНаценка" id="6c238f1a-7f43-4f40-9dd1-edefbe692591"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.ХарактеристикаНабора" id="6e0c711d-da24-41a3-8bd8-e68a97aa35d5"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.ПроцентРучнойСкидки" id="6e1522f8-0e57-4f9c-ae47-605cba06756c"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.КлючСвязи" id="7ff39ce2-fc75-4762-bcfc-dad6f2150463"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Количество" id="82228b98-d4f3-4243-b39e-cc0e9d645200"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары" id="8301df58-1e59-47d7-8520-eef3efbdbd72"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Серия" id="8415dc86-5de0-4c03-9db9-449a5afd9559"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Штрихкод" id="93b71a00-c3b8-44c8-84c8-031cb7bef0cd"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.ИдентификаторСтроки" id="a764319d-fee8-4c9f-943e-5e9ac14a9166"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Помещение" id="aeff9783-324c-4045-8663-987454ef1b21"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Характеристика" id="b3e79730-ea2c-416b-b3c3-35b1ffc86184"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.СуммаАвтоматическойСкидки" id="b5a43466-3e39-48e8-9bb1-9dc1a9d25a00"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.СуммаБонусныхБалловКСписанию" id="bc02e51b-8b0a-4a73-bcde-1c2c3674f1aa"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.СтатусУказанияСерий" id="bd837a53-2003-4290-92b3-873e269e7324"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.СкидкиНаценки.Attribute.Сумма" id="d67eba58-c43c-4a44-a99e-688cd692994c"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.СкидкиНаценки" id="e4ecde43-0b17-4a94-a714-175117c0e3a3"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.НоменклатураЕГАИС" id="fa98d4b9-0ff8-4512-94e3-19001eec32fb"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.СкидкиНаценки.Attribute.НапомнитьПозже" id="faaf8439-006a-45e5-9afa-c94efbb6cae4"/>
+			<Metadata name="Document.ЧекККМ.TabularSection.Товары.Attribute.Упаковка" id="fb1511de-88b1-4539-8d35-e736e13abef9"/>
+		</Metadata>
+		<Metadata name="Document.ЧекККМ.Form.ФормаДокументаРМК" id="d72359ff-4f7e-4f52-9ab8-a48797d92386" configVersion="ffeccd9b67145dc025892b666686da25c863bda3"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаДокументаРМК.Form" id="d72359ff-4f7e-4f52-9ab8-a48797d92386.0" configVersion="2ba36c8d8e4a5e5689caae75dc2e33d125e21308"/>
+		<Metadata name="Enum.ТипыНоменклатуры" id="db2efb4d-ea05-4b6f-83bf-fca94306db63" configVersion="694c68d573b4832d8d6250161b523365db64b195"/>
+		<Metadata name="Language.Русский" id="ad042b68-bd13-4c0a-8601-4b5cc1b46f2b" configVersion="ed2e6e2206890dc273a129350e021cddc7362150"/>
+		<Metadata name="Role.цм_ОсновнаяРоль" id="599b1ce1-405c-40b4-91ed-86d28376df68" configVersion="a854fe9f5f6896dfb45bc35dd80fa38188c1c015"/>
+		<Metadata name="Role.цм_ОсновнаяРоль.Rights" id="599b1ce1-405c-40b4-91ed-86d28376df68.0" configVersion="d3c8aaa180e44a1e44d9083bb47eee16786bfe34"/>
+		<Metadata name="StyleItem.ЦветГрадацияСПАРКВысокийРиск" id="b87e43fe-0bec-4794-834c-c44e6b0a5e5e" configVersion="6890ebfe04c312defc03c0cad6ab671e8c010a0f"/>
+		<Metadata name="StyleItem.ЦветГрадацияСПАРКСреднийРиск" id="4b6fe278-33a1-41bd-a087-ce5f7023308c" configVersion="7695e937b37479fa1677a9be40c06169fa58e7e8"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

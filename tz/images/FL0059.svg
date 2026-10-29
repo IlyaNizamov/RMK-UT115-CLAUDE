@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Лента атласная стандарт</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M 122,98 L 82,188 L 96,182 L 104,196 L 138,102 Z" fill="#b11541" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 134,98 L 170,192 L 180,180 L 194,186 L 146,96 Z" fill="#b11541" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,92 C 98,42 40,42 44,84 C 48,118 98,116 128,92 Z" fill="#c9184a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,92 C 158,42 216,42 212,84 C 208,118 158,116 128,92 Z" fill="#c9184a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 122,90 C 102,66 68,62 66,84 C 78,92 104,96 122,90 Z M 134,90 C 154,66 188,62 190,84 C 178,92 152,96 134,90 Z" fill="#000000" fill-opacity="0.15"/>
+  <path d="M 108,70 C 92,54 64,52 54,72 C 68,62 88,62 108,70 Z M 148,70 C 164,54 192,52 202,72 C 188,62 168,62 148,70 Z" fill="#ffffff" fill-opacity="0.35"/>
+  <ellipse cx="128" cy="92" rx="14" ry="16" fill="#b91644" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

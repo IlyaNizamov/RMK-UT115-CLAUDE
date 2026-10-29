@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Стаканчик для цветов</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M66,64 L92,214 Q128,226 164,214 L190,64 Z" fill="#f4d35e" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M76.1,122 Q128,136 179.9,122 L173,162 Q128,176 83,162 Z" fill="#c9a46b" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M150,72 L182,70 L160,212 L146,216 Z" fill="#000000" fill-opacity="0.15"/>
+  <path d="M80,80 L92,80 L108,206 L100,206 Z" fill="#ffffff" fill-opacity="0.35"/>
+  <ellipse cx="128" cy="64" rx="66" ry="16" fill="#f5d76e" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="64" rx="54" ry="10" fill="#ab9442" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="144" r="7" fill="#f4d35e" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Ирис</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M-9 0 C-9 -61 -5.4 -103.7 0 -122 C5.4 -103.7 9 -61 9 0 Z" fill="#6aa84f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(118 226) rotate(-12)"/>
+  <path d="M-9 0 C-9 -50 -5.4 -85 0 -100 C5.4 -85 9 -50 9 0 Z" fill="#3f7a2f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(138 226) rotate(14)"/>
+  <polygon points="132.5,225.8 132.3,220.2 132.1,214.6 131.9,209 131.8,203.3 131.6,197.7 131.5,192 131.4,186.3 131.3,180.5 131.3,174.8 131.2,169 131.2,163.2 131.2,157.4 131.3,151.6 131.3,145.7 131.4,139.8 131.5,133.9 131.6,128 131.7,122.1 131.8,116.1 132,110.1 124,109.9 123.8,115.9 123.6,121.9 123.4,127.8 123.3,133.8 123.1,139.7 123,145.6 122.9,151.5 122.8,157.3 122.8,163.2 122.8,169 122.7,174.8 122.7,180.6 122.8,186.4 122.8,192.1 122.9,197.8 123,203.5 123.1,209.2 123.2,214.9 123.3,220.5 123.5,226.2" fill="#4f8a3c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M120 76 C96 70 88 44 98 30 C112 36 122 52 126 70 Z" fill="#6e62c4" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M136 76 C160 70 168 44 158 30 C144 36 134 52 130 70 Z" fill="#6e62c4" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 74 C110 58 112 30 128 18 C144 30 146 58 128 74 Z" fill="#6e62c4" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M124 74 C100 64 72 72 66 98 C62 116 80 122 94 110 C108 98 118 86 124 74 Z" fill="#4b3fa0" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M132 74 C156 64 184 72 190 98 C194 116 176 122 162 110 C148 98 138 86 132 74 Z" fill="#4b3fa0" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 76 C110 88 108 116 128 128 C148 116 146 88 128 76 Z" fill="#4b3fa0" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 82 C124 92 124 104 128 114 C132 104 132 92 128 82 Z" fill="#f2c200" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M120 80 C108 82 96 88 88 98 C100 94 110 90 120 80 Z" fill="#f2c200" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M136 80 C148 82 160 88 168 98 C156 94 146 90 136 80 Z" fill="#f2c200" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M120 32 C116 42 116 54 120 62 C122 52 122 42 124 30 Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

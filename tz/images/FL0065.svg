@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Корзина плетёная средняя</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M67.2,132 C67.2,22.8 188.8,22.8 188.8,132 L176.8,132 C176.8,40.8 79.2,40.8 79.2,132 Z" fill="#7f5b2d" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M48,132 L70.4,212 Q70.4,222 80.4,222 L175.6,222 Q185.6,222 185.6,212 L208,132 Z" fill="#8d6532" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="66.5" cy="150" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="88.5" cy="150" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="110.5" cy="150" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="132.5" cy="150" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="154.5" cy="150" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="176.5" cy="150" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="81" cy="164" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="103" cy="164" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="125" cy="164" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="147" cy="164" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="169" cy="164" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="73.4" cy="178" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="95.4" cy="178" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="117.4" cy="178" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="139.4" cy="178" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="161.4" cy="178" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="87.9" cy="192" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="109.9" cy="192" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="131.9" cy="192" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="153.9" cy="192" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="175.9" cy="192" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="80.4" cy="206" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="102.4" cy="206" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="124.4" cy="206" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="146.4" cy="206" rx="8" ry="4.5" fill="#ad906b"/>
+  <ellipse cx="168.4" cy="206" rx="8" ry="4.5" fill="#ad906b"/>
+  <polygon points="176,132 208,132 185.6,212 175.6,220 163.2,220" fill="#000000" fill-opacity="0.15"/>
+  <polygon points="60,142 72,142 90.4,210 80.4,208" fill="#ffffff" fill-opacity="0.35"/>
+  <rect x="42" y="124" width="172" height="16" rx="8" fill="#7c592c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="54" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 54 132)"/>
+  <ellipse cx="68" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 68 132)"/>
+  <ellipse cx="82" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 82 132)"/>
+  <ellipse cx="96" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 96 132)"/>
+  <ellipse cx="110" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 110 132)"/>
+  <ellipse cx="124" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 124 132)"/>
+  <ellipse cx="138" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 138 132)"/>
+  <ellipse cx="152" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 152 132)"/>
+  <ellipse cx="166" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 166 132)"/>
+  <ellipse cx="180" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 180 132)"/>
+  <ellipse cx="194" cy="132" rx="6" ry="3.5" fill="#ad906b" transform="rotate(-30 194 132)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Лента атласная на 1 цветок</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M 123.7,128.3 L 103.5,161.4 L 112.2,158.6 L 116.5,167.2 L 133.8,129.8 Z" fill="#bc2323" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 132.3,128.3 L 149.6,165.8 L 155.4,158.6 L 164,161.4 L 139.5,126.9 Z" fill="#bc2323" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,124 C 106.4,88 64.6,88 67.5,118.2 C 70.4,142.7 106.4,141.3 128,124 Z" fill="#d62828" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 128,124 C 149.6,88 191.4,88 188.5,118.2 C 185.6,142.7 149.6,141.3 128,124 Z" fill="#d62828" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 123.7,122.6 C 109.3,105.3 84.8,102.4 83.4,118.2 C 92,124 110.7,126.9 123.7,122.6 Z M 132.3,122.6 C 146.7,105.3 171.2,102.4 172.6,118.2 C 164,124 145.3,126.9 132.3,122.6 Z" fill="#000000" fill-opacity="0.15"/>
+  <path d="M 113.6,108.2 C 102.1,96.6 81.9,95.2 74.7,109.6 C 84.8,102.4 99.2,102.4 113.6,108.2 Z M 142.4,108.2 C 153.9,96.6 174.1,95.2 181.3,109.6 C 171.2,102.4 156.8,102.4 142.4,108.2 Z" fill="#ffffff" fill-opacity="0.35"/>
+  <ellipse cx="128" cy="124" rx="10.1" ry="11.5" fill="#c52525" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

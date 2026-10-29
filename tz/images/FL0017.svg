@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Тюльпан</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M0 0 C22 -29.5 13.2 -94.4 0 -118 C-13.2 -94.4 -22 -29.5 0 0 Z" fill="#6aa84f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(122 224) rotate(-24)"/>
+  <path d="M0 -9.4 C2.6 -35.4 1.8 -70.8 0 -92 C-1.8 -70.8 -2.6 -35.4 0 -9.4 Z" fill="#3f7a2f" transform="translate(122 224) rotate(-24)"/>
+  <path d="M0 0 C20 -24 12 -76.8 0 -96 C-12 -76.8 -20 -24 0 0 Z" fill="#3f7a2f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(134 224) rotate(22)"/>
+  <path d="M0 -7.7 C2.4 -28.8 1.6 -57.6 0 -74.9 C-1.6 -57.6 -2.4 -28.8 0 -7.7 Z" fill="#2f5f22" transform="translate(134 224) rotate(22)"/>
+  <polygon points="133.5,225.4 132.9,219.9 132.4,214.2 131.9,208.6 131.5,202.9 131.1,197.1 130.8,191.3 130.6,185.4 130.4,179.5 130.3,173.5 130.2,167.5 130.3,161.4 130.3,155.3 130.4,149.1 130.6,142.9 130.9,136.6 131.2,130.3 131.5,123.9 132,117.5 132.4,111 133,104.5 123,103.5 122.4,110.2 121.9,116.7 121.4,123.2 121,129.7 120.6,136.1 120.3,142.5 120.1,148.8 119.9,155.1 119.8,161.3 119.8,167.5 119.8,173.6 119.8,179.7 119.9,185.7 120.1,191.7 120.4,197.7 120.7,203.5 121.1,209.4 121.5,215.2 122,220.9 122.5,226.6" fill="#4f8a3c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 110 C104 108 100 70 108 46 L128 24 L148 46 C156 70 152 108 128 110 Z" fill="#e63946" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M126 114 C96 112 84 80 92 40 C112 50 132 70 138 96 C138 108 134 114 126 114 Z" fill="#e63946" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M130 114 C160 112 172 80 164 40 C144 50 124 70 118 96 C118 108 122 114 130 114 Z" fill="#e63946" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 116 C106 114 100 86 108 60 L128 40 L148 60 C156 86 150 114 128 116 Z" fill="#e63946" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M146 64 C152 84 150 110 130 114 C144 104 148 86 146 64 Z" fill="#000000" fill-opacity="0.15"/>
+  <path d="M114 66 C110 80 112 96 118 106 C120 92 120 78 124 60 Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

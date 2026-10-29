@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="29a380cf-9dda-44a1-8a75-27cf03647920">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлассификаторАлкогольнойПродукцииЕГАИС" category="Object">
+				<xr:TypeId>02a85d42-ce21-4985-aaff-d3f68d20ca73</xr:TypeId>
+				<xr:ValueId>d2317119-58e0-444c-9ea8-8a1c1967628d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлассификаторАлкогольнойПродукцииЕГАИС" category="Ref">
+				<xr:TypeId>033afe46-b18d-4273-8902-834bc426d5a9</xr:TypeId>
+				<xr:ValueId>ee1eafcf-3879-469a-8197-8b4892be46fa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлассификаторАлкогольнойПродукцииЕГАИС" category="Selection">
+				<xr:TypeId>0a8a90a1-3284-4f0f-9029-e9ff92714ffb</xr:TypeId>
+				<xr:ValueId>dad15163-2774-4e46-bfff-383bffb0584a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлассификаторАлкогольнойПродукцииЕГАИС" category="List">
+				<xr:TypeId>a8818cd4-9d9a-4794-b5bd-4f49848b3510</xr:TypeId>
+				<xr:ValueId>1dc1e998-2067-4fc2-b446-c97cfe53351b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлассификаторАлкогольнойПродукцииЕГАИС" category="Manager">
+				<xr:TypeId>62e71f79-2094-4ec3-b30d-a3fec90affc7</xr:TypeId>
+				<xr:ValueId>79ee95c9-d3c0-4a7e-b10c-c6030ebd3e69</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлассификаторАлкогольнойПродукцииЕГАИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>695fc06c-eed2-452a-934a-0870f5d2084a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

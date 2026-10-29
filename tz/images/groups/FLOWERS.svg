@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Цветы поштучно</title>
+  <circle cx="128" cy="128" r="116" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4"/>
+  <path d="M132.5 213.8 L132.3 208.9 L132 204 L131.9 199 L131.7 194 L131.6 189 L131.4 183.9 L131.4 178.8 L131.3 173.7 L131.2 168.5 L131.2 163.3 L131.2 158 L131.3 152.7 L131.3 147.4 L131.4 142 L131.5 136.6 L131.7 131.2 L131.8 125.7 L132 120.2 L124 119.8 L123.8 125.4 L123.6 130.9 L123.4 136.4 L123.2 141.8 L123.1 147.2 L122.9 152.6 L122.9 157.9 L122.8 163.2 L122.8 168.5 L122.7 173.7 L122.7 178.9 L122.8 184.1 L122.8 189.2 L122.9 194.3 L123 199.3 L123.2 204.3 L123.3 209.3 L123.5 214.2Z" fill="#4f8a3c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M0 0Q35.1 -14 78 0Q35.1 14 0 0Z" fill="#6aa84f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 206) rotate(-120)"/>
+  <path d="M0 0Q31.5 -13 70 0Q31.5 13 0 0Z" fill="#6aa84f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 196) rotate(-62)"/>
+  <path d="M94 64Q90 126 128 128Q166 126 162 64L146 84L128 54L110 84Z" fill="#d6457a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M110 84Q114 112 128 126Q142 112 146 84L128 54Z" fill="#c23668" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M100 74Q98 108 116 120Q104 100 104 78Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

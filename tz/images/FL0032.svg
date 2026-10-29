@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Ранункулюс</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <polygon points="132.4,226.7 133.2,221.6 133.9,216.6 134.5,211.5 135,206.5 135.5,201.5 135.9,196.5 136.1,191.5 136.3,186.5 136.5,181.5 136.5,176.5 136.5,171.5 136.3,166.6 136.1,161.6 135.9,156.7 135.5,151.8 135,146.8 134.5,141.9 133.9,137 133.2,132.1 132.4,127.3 123.6,128.7 124.3,133.5 125,138.2 125.6,143 126.1,147.7 126.5,152.5 126.9,157.3 127.1,162.1 127.3,166.9 127.5,171.7 127.5,176.5 127.5,181.3 127.3,186.2 127.1,191 126.9,195.9 126.5,200.8 126.1,205.6 125.6,210.5 125,215.4 124.3,220.4 123.6,225.3" fill="#4f8a3c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M0 0 C8 -8.5 4.8 -27.2 0 -34 C-4.8 -27.2 -8 -8.5 0 0 Z" fill="#6aa84f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(126 180) rotate(-62)"/>
+  <path d="M0 -2.7 C1 -10.2 0.6 -20.4 0 -26.5 C-0.6 -20.4 -1 -10.2 0 -2.7 Z" fill="#3f7a2f" transform="translate(126 180) rotate(-62)"/>
+  <path d="M0 0 C8 -9.5 4.8 -30.4 0 -38 C-4.8 -30.4 -8 -9.5 0 0 Z" fill="#6aa84f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(126 180) rotate(-36)"/>
+  <path d="M0 -3 C1 -11.4 0.6 -22.8 0 -29.6 C-0.6 -22.8 -1 -11.4 0 -3 Z" fill="#3f7a2f" transform="translate(126 180) rotate(-36)"/>
+  <path d="M0 0 C8 -7 4.8 -22.4 0 -28 C-4.8 -22.4 -8 -7 0 0 Z" fill="#6aa84f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(126 180) rotate(-88)"/>
+  <path d="M0 -2.2 C1 -8.4 0.6 -16.8 0 -21.8 C-0.6 -16.8 -1 -8.4 0 -2.2 Z" fill="#3f7a2f" transform="translate(126 180) rotate(-88)"/>
+  <path d="M0 0 C8 -8 4.8 -25.6 0 -32 C-4.8 -25.6 -8 -8 0 0 Z" fill="#3f7a2f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(130 200) rotate(60)"/>
+  <path d="M0 -2.6 C1 -9.6 0.6 -19.2 0 -25 C-0.6 -19.2 -1 -9.6 0 -2.6 Z" fill="#2f5f22" transform="translate(130 200) rotate(60)"/>
+  <path d="M0 0 C8 -9 4.8 -28.8 0 -36 C-4.8 -28.8 -8 -9 0 0 Z" fill="#3f7a2f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(130 200) rotate(34)"/>
+  <path d="M0 -2.9 C1 -10.8 0.6 -21.6 0 -28.1 C-0.6 -21.6 -1 -10.8 0 -2.9 Z" fill="#2f5f22" transform="translate(130 200) rotate(34)"/>
+  <path d="M110 126 C112 116 120 112 128 116 C136 112 144 116 146 126 Z" fill="#6aa84f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M176 80 A15 15 0 0 1 171.2 100.8 A15 15 0 0 1 157.9 117.5 A15 15 0 0 1 138.7 126.8 A15 15 0 0 1 117.3 126.8 A15 15 0 0 1 98.1 117.5 A15 15 0 0 1 84.8 100.8 A15 15 0 0 1 80 80 A15 15 0 0 1 84.8 59.2 A15 15 0 0 1 98.1 42.5 A15 15 0 0 1 117.3 33.2 A15 15 0 0 1 138.7 33.2 A15 15 0 0 1 157.9 42.5 A15 15 0 0 1 171.2 59.2 A15 15 0 0 1 176 80 Z" fill="#ff9a76" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M168 73 A14.5 14.5 0 0 1 162.6 93 A14.5 14.5 0 0 1 148 107.6 A14.5 14.5 0 0 1 128 113 A14.5 14.5 0 0 1 108 107.6 A14.5 14.5 0 0 1 93.4 93 A14.5 14.5 0 0 1 88 73 A14.5 14.5 0 0 1 93.4 53 A14.5 14.5 0 0 1 108 38.4 A14.5 14.5 0 0 1 128 33 A14.5 14.5 0 0 1 148 38.4 A14.5 14.5 0 0 1 162.6 53 A14.5 14.5 0 0 1 168 73 Z" fill="#ffb497" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M159 66 A13.4 13.4 0 0 1 153.1 84.2 A13.4 13.4 0 0 1 137.6 95.5 A13.4 13.4 0 0 1 118.4 95.5 A13.4 13.4 0 0 1 102.9 84.2 A13.4 13.4 0 0 1 97 66 A13.4 13.4 0 0 1 102.9 47.8 A13.4 13.4 0 0 1 118.4 36.5 A13.4 13.4 0 0 1 137.6 36.5 A13.4 13.4 0 0 1 153.1 47.8 A13.4 13.4 0 0 1 159 66 Z" fill="#ff9a76" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M150 60 A11.8 11.8 0 0 1 143.6 75.6 A11.8 11.8 0 0 1 128 82 A11.8 11.8 0 0 1 112.4 75.6 A11.8 11.8 0 0 1 106 60 A11.8 11.8 0 0 1 112.4 44.4 A11.8 11.8 0 0 1 128 38 A11.8 11.8 0 0 1 143.6 44.4 A11.8 11.8 0 0 1 150 60 Z" fill="#ffb497" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M141 55 A9.1 9.1 0 0 1 134.5 66.3 A9.1 9.1 0 0 1 121.5 66.3 A9.1 9.1 0 0 1 115 55 A9.1 9.1 0 0 1 121.5 43.7 A9.1 9.1 0 0 1 134.5 43.7 A9.1 9.1 0 0 1 141 55 Z" fill="#ff9a76" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="53" r="5" fill="#8fbf4f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M80 92 C90 124 166 124 176 92 C164 116 92 116 80 92 Z" fill="#000000" fill-opacity="0.15"/>
+  <path d="M90 62 C96 46 110 36 124 34 C110 40 100 50 96 66 Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Орхидеи</title>
+  <circle cx="128" cy="128" r="116" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4"/>
+  <ellipse cx="0" cy="0" rx="18" ry="34" fill="#c48fe0" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 76) rotate(0)"/>
+  <ellipse cx="0" cy="0" rx="16" ry="32" fill="#c48fe0" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(100 158) rotate(35)"/>
+  <ellipse cx="0" cy="0" rx="16" ry="32" fill="#c48fe0" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(156 158) rotate(-35)"/>
+  <ellipse cx="0" cy="0" rx="36" ry="30" fill="#9b4dca" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(88 116) rotate(-15)"/>
+  <ellipse cx="0" cy="0" rx="36" ry="30" fill="#9b4dca" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(168 116) rotate(15)"/>
+  <path d="M110 132Q128 120 146 132Q150 160 128 170Q106 160 110 132Z" fill="#7a2fa6" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="122" rx="9" ry="12" fill="#f2c94c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M65.6 112a12 7 -30 1 0 20.8 -12a12 7 -30 1 0 -20.8 12ZM169.6 100a12 7 30 1 0 20.8 12a12 7 30 1 0 -20.8 -12Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Флористическая губка (оазис)</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <polygon points="48,120 176,120 212,88 84,88" fill="#599e5d" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="176,120 212,88 212,168 176,200" fill="#307133" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="48" y="120" width="128" height="80" fill="#3c8d40" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="80" cy="96" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="102" cy="96" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="124" cy="96" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="146" cy="96" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="168" cy="96" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="92" cy="105" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="114" cy="105" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="136" cy="105" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="158" cy="105" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="180" cy="105" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="104" cy="114" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="126" cy="114" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="148" cy="114" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="170" cy="114" rx="3.5" ry="2" fill="#2a632d"/>
+  <ellipse cx="192" cy="114" rx="3.5" ry="2" fill="#2a632d"/>
+  <circle cx="66" cy="140" r="2.5" fill="#76af79"/>
+  <circle cx="90" cy="160" r="2.5" fill="#76af79"/>
+  <circle cx="118" cy="138" r="2.5" fill="#76af79"/>
+  <circle cx="146" cy="172" r="2.5" fill="#76af79"/>
+  <circle cx="70" cy="182" r="2.5" fill="#76af79"/>
+  <circle cx="128" cy="186" r="2.5" fill="#76af79"/>
+  <circle cx="158" cy="146" r="2.5" fill="#76af79"/>
+  <circle cx="104" cy="178" r="2.5" fill="#76af79"/>
+  <polygon points="56,126 168,126 168,132 56,132" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

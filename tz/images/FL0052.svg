@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Сухоцвет колосок</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M133.5 227.8 L133 221.4 L132.6 215 L132.2 208.7 L131.9 202.4 L131.6 196.1 L131.3 189.9 L131.1 183.7 L130.9 177.6 L130.7 171.4 L130.6 165.4 L130.5 159.3 L130.5 153.3 L130.5 147.4 L130.5 141.4 L130.6 135.6 L130.7 129.7 L130.8 123.9 L131 118.1 L125 117.9 L124.8 123.7 L124.6 129.6 L124.4 135.4 L124.3 141.4 L124.2 147.3 L124.2 153.3 L124.2 159.4 L124.2 165.4 L124.3 171.6 L124.4 177.7 L124.5 183.9 L124.7 190.1 L124.9 196.4 L125.1 202.7 L125.4 209 L125.7 215.4 L126.1 221.8 L126.5 228.2Z" fill="#c9a46b" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M0 0Q25.2 -7 56 0Q25.2 7 0 0Z" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(129 188) rotate(-128)"/>
+  <line x1="-8" y1="-20" x2="-20" y2="-44" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="8" y1="-20" x2="20" y2="-44" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="-8" y1="-33" x2="-20" y2="-57" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="8" y1="-33" x2="20" y2="-57" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="-8" y1="-46" x2="-20" y2="-70" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="8" y1="-46" x2="20" y2="-70" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="-8" y1="-59" x2="-20" y2="-83" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="8" y1="-59" x2="20" y2="-83" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="-8" y1="-72" x2="-20" y2="-96" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="8" y1="-72" x2="20" y2="-96" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="-8" y1="-85" x2="-20" y2="-109" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="8" y1="-85" x2="20" y2="-109" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="-8" y1="-98" x2="-20" y2="-122" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="8" y1="-98" x2="20" y2="-122" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <line x1="0" y1="-109" x2="0" y2="-135" stroke="#b39a6a" stroke-width="4" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <ellipse cx="0" cy="0" rx="7" ry="12" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(-7 -10) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="7" ry="12" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(7 -10) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6.6" ry="11.4" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(-7 -23) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6.6" ry="11.4" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(7 -23) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6.3" ry="10.8" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(-7 -36) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6.3" ry="10.8" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(7 -36) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6" ry="10.2" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(-7 -49) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6" ry="10.2" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(7 -49) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="5.6" ry="9.6" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(-7 -62) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="5.6" ry="9.6" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(7 -62) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="5.2" ry="9" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(-7 -75) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="5.2" ry="9" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(7 -75) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="4.9" ry="8.4" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(-7 -88) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="4.9" ry="8.4" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0) translate(7 -88) rotate(24)"/>
+  <ellipse cx="0" cy="-99" rx="6" ry="11" fill="#d8c39a" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 122) rotate(0) scale(1.0)"/>
+  <path d="M118 70a3 22 0 1 0 6 0a3 22 0 1 0 -6 0Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

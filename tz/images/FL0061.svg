@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Коробка шляпная малая</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M73,140.4 L73,212.4 A55,17.6 0 0 0 183,212.4 L183,140.4 Z" fill="#222222" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M158.8,140.4 L158.8,227 A55,17.6 0 0 0 183,212.4 L183,140.4 Z" fill="#000000" fill-opacity="0.15"/>
+  <rect x="119" y="140.4" width="18" height="87.6" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M65,117.4 L65,142.4 A63,19.6 0 0 0 191,142.4 L191,117.4 Z" fill="#222222" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="117.4" rx="63" ry="19.6" fill="#343434" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M84,154.4 L92.8,154.4 L92.8,210.4 L84,206.4 Z M93.3,110.6 Q128,102.7 140.6,105.7 Q128,108.6 93.3,110.6 Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Сухоцветы</title>
+  <circle cx="128" cy="128" r="116" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4"/>
+  <path d="M131.4 209.4 L130.8 206 L130.1 202.6 L129.4 199.1 L128.7 195.5 L128 191.9 L127.2 188.2 L126.5 184.5 L125.7 180.7 L124.9 176.9 L124.1 172.9 L123.2 169 L122.4 164.9 L121.5 160.8 L120.6 156.7 L119.7 152.4 L118.8 148.1 L117.9 143.8 L116.9 139.4 L111.1 140.6 L112 145 L112.8 149.4 L113.7 153.7 L114.5 157.9 L115.4 162.1 L116.2 166.2 L117 170.2 L117.8 174.2 L118.5 178.1 L119.3 182 L120 185.8 L120.7 189.5 L121.4 193.2 L122 196.8 L122.7 200.4 L123.3 203.9 L124 207.3 L124.6 210.6Z" fill="#c9a46b" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M131.4 210.6 L132 207.3 L132.7 203.9 L133.3 200.4 L134 196.8 L134.6 193.2 L135.3 189.5 L136 185.8 L136.7 182 L137.5 178.1 L138.2 174.2 L139 170.2 L139.8 166.2 L140.6 162.1 L141.5 157.9 L142.3 153.7 L143.2 149.4 L144 145 L144.9 140.6 L139.1 139.4 L138.1 143.8 L137.2 148.1 L136.3 152.4 L135.4 156.7 L134.5 160.8 L133.6 164.9 L132.8 169 L131.9 172.9 L131.1 176.9 L130.3 180.7 L129.5 184.5 L128.8 188.2 L128 191.9 L127.3 195.5 L126.6 199.1 L125.9 202.6 L125.2 206 L124.6 209.4Z" fill="#c9a46b" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M131.5 210 L131.5 206.6 L131.4 203.1 L131.4 199.5 L131.4 195.8 L131.4 191.9 L131.3 188 L131.3 183.9 L131.3 179.8 L131.2 175.5 L131.2 171.1 L131.2 166.6 L131.2 162 L131.1 157.3 L131.1 152.4 L131.1 147.5 L131.1 142.4 L131 137.3 L131 132 L125 132 L125 137.3 L124.9 142.4 L124.9 147.5 L124.9 152.4 L124.9 157.3 L124.8 162 L124.8 166.6 L124.8 171.1 L124.8 175.5 L124.7 179.8 L124.7 183.9 L124.7 188 L124.6 191.9 L124.6 195.8 L124.6 199.5 L124.6 203.1 L124.5 206.6 L124.5 210Z" fill="#c9a46b" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="-8" y1="-20" x2="-20" y2="-44" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="8" y1="-20" x2="20" y2="-44" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="-8" y1="-33" x2="-20" y2="-57" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="8" y1="-33" x2="20" y2="-57" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="-8" y1="-46" x2="-20" y2="-70" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="8" y1="-46" x2="20" y2="-70" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="-8" y1="-59" x2="-20" y2="-83" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="8" y1="-59" x2="20" y2="-83" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="-8" y1="-72" x2="-20" y2="-96" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="8" y1="-72" x2="20" y2="-96" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="0" y1="-83" x2="0" y2="-109" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <ellipse cx="0" cy="0" rx="7" ry="12" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(-7 -10) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="7" ry="12" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(7 -10) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6.6" ry="11.4" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(-7 -23) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6.6" ry="11.4" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(7 -23) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6.3" ry="10.8" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(-7 -36) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6.3" ry="10.8" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(7 -36) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6" ry="10.2" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(-7 -49) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6" ry="10.2" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(7 -49) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="5.6" ry="9.6" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(-7 -62) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="5.6" ry="9.6" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82) translate(7 -62) rotate(24)"/>
+  <ellipse cx="0" cy="-73" rx="6" ry="11" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(114 140) rotate(-24) scale(0.82)"/>
+  <line x1="-8" y1="-20" x2="-20" y2="-44" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="8" y1="-20" x2="20" y2="-44" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="-8" y1="-33" x2="-20" y2="-57" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="8" y1="-33" x2="20" y2="-57" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="-8" y1="-46" x2="-20" y2="-70" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="8" y1="-46" x2="20" y2="-70" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="-8" y1="-59" x2="-20" y2="-83" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="8" y1="-59" x2="20" y2="-83" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="-8" y1="-72" x2="-20" y2="-96" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="8" y1="-72" x2="20" y2="-96" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="0" y1="-83" x2="0" y2="-109" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <ellipse cx="0" cy="0" rx="7" ry="12" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(-7 -10) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="7" ry="12" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(7 -10) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6.6" ry="11.4" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(-7 -23) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6.6" ry="11.4" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(7 -23) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6.3" ry="10.8" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(-7 -36) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6.3" ry="10.8" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(7 -36) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6" ry="10.2" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(-7 -49) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6" ry="10.2" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(7 -49) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="5.6" ry="9.6" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(-7 -62) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="5.6" ry="9.6" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82) translate(7 -62) rotate(24)"/>
+  <ellipse cx="0" cy="-73" rx="6" ry="11" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(142 140) rotate(24) scale(0.82)"/>
+  <line x1="-8" y1="-20" x2="-20" y2="-44" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="8" y1="-20" x2="20" y2="-44" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="-8" y1="-33" x2="-20" y2="-57" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="8" y1="-33" x2="20" y2="-57" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="-8" y1="-46" x2="-20" y2="-70" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="8" y1="-46" x2="20" y2="-70" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="-8" y1="-59" x2="-20" y2="-83" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="8" y1="-59" x2="20" y2="-83" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="-8" y1="-72" x2="-20" y2="-96" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="8" y1="-72" x2="20" y2="-96" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <line x1="0" y1="-83" x2="0" y2="-109" stroke="#b08850" stroke-width="4" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <ellipse cx="0" cy="0" rx="7" ry="12" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(-7 -10) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="7" ry="12" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(7 -10) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6.6" ry="11.4" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(-7 -23) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6.6" ry="11.4" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(7 -23) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6.3" ry="10.8" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(-7 -36) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6.3" ry="10.8" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(7 -36) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="6" ry="10.2" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(-7 -49) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="6" ry="10.2" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(7 -49) rotate(24)"/>
+  <ellipse cx="0" cy="0" rx="5.6" ry="9.6" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(-7 -62) rotate(-24)"/>
+  <ellipse cx="0" cy="0" rx="5.6" ry="9.6" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82) translate(7 -62) rotate(24)"/>
+  <ellipse cx="0" cy="-73" rx="6" ry="11" fill="#d1a866" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" transform="translate(128 132) rotate(0) scale(0.82)"/>
+  <rect x="112" y="176" width="32" height="14" rx="4" fill="#b08850" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

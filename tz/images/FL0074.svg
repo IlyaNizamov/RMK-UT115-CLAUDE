@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Портбукетница</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M112,140 L120,222 Q128,228 136,222 L144,140 Z" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M116,150 L140,150" fill="none" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M222,120 Q235.9,128.8 214.8,133.8 Q219.5,145 194.5,145.5 Q189.1,157.4 164,153.3 Q149.5,164.1 128,156 Q106.5,164.1 92,153.3 Q66.9,157.4 61.5,145.5 Q36.5,145 41.2,133.8 Q20.1,128.8 34,120 Q20.1,111.2 41.2,106.2 Q36.5,95 61.5,94.5 Q66.9,82.6 92,86.7 Q106.5,75.9 128,84 Q149.5,75.9 164,86.7 Q189.1,82.6 194.5,94.5 Q219.5,95 214.8,106.2 Q235.9,111.2 222,120 Z" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="212.3" cy="126.4" r="4" fill="#ddd5c4"/>
+  <circle cx="198" cy="120" r="2.5" fill="#ddd5c4"/>
+  <circle cx="199.5" cy="138.3" r="4" fill="#ddd5c4"/>
+  <circle cx="192.7" cy="130.3" r="2.5" fill="#ddd5c4"/>
+  <circle cx="175.8" cy="147.4" r="4" fill="#ddd5c4"/>
+  <circle cx="177.5" cy="139.1" r="2.5" fill="#ddd5c4"/>
+  <circle cx="144.8" cy="152.4" r="4" fill="#ddd5c4"/>
+  <circle cx="154.8" cy="144.9" r="2.5" fill="#ddd5c4"/>
+  <circle cx="111.2" cy="152.4" r="4" fill="#ddd5c4"/>
+  <circle cx="128" cy="147" r="2.5" fill="#ddd5c4"/>
+  <circle cx="80.2" cy="147.4" r="4" fill="#ddd5c4"/>
+  <circle cx="101.2" cy="144.9" r="2.5" fill="#ddd5c4"/>
+  <circle cx="56.5" cy="138.3" r="4" fill="#ddd5c4"/>
+  <circle cx="78.5" cy="139.1" r="2.5" fill="#ddd5c4"/>
+  <circle cx="43.7" cy="126.4" r="4" fill="#ddd5c4"/>
+  <circle cx="63.3" cy="130.3" r="2.5" fill="#ddd5c4"/>
+  <circle cx="43.7" cy="113.6" r="4" fill="#ddd5c4"/>
+  <circle cx="58" cy="120" r="2.5" fill="#ddd5c4"/>
+  <circle cx="56.5" cy="101.7" r="4" fill="#ddd5c4"/>
+  <circle cx="63.3" cy="109.7" r="2.5" fill="#ddd5c4"/>
+  <circle cx="80.2" cy="92.6" r="4" fill="#ddd5c4"/>
+  <circle cx="78.5" cy="100.9" r="2.5" fill="#ddd5c4"/>
+  <circle cx="111.2" cy="87.6" r="4" fill="#ddd5c4"/>
+  <circle cx="101.2" cy="95.1" r="2.5" fill="#ddd5c4"/>
+  <circle cx="144.8" cy="87.6" r="4" fill="#ddd5c4"/>
+  <circle cx="128" cy="93" r="2.5" fill="#ddd5c4"/>
+  <circle cx="175.8" cy="92.6" r="4" fill="#ddd5c4"/>
+  <circle cx="154.8" cy="95.1" r="2.5" fill="#ddd5c4"/>
+  <circle cx="199.5" cy="101.7" r="4" fill="#ddd5c4"/>
+  <circle cx="177.5" cy="100.9" r="2.5" fill="#ddd5c4"/>
+  <circle cx="212.3" cy="113.6" r="4" fill="#ddd5c4"/>
+  <circle cx="192.7" cy="109.7" r="2.5" fill="#ddd5c4"/>
+  <ellipse cx="128" cy="116" rx="56" ry="18" fill="#e2dccd" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M80,116 C80,52 176,52 176,116 Q128,136 80,116 Z" fill="#3c8d40" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="106" cy="92" r="3" fill="#2a632d"/>
+  <circle cx="128" cy="82" r="3" fill="#2a632d"/>
+  <circle cx="150" cy="92" r="3" fill="#2a632d"/>
+  <circle cx="116" cy="110" r="3" fill="#2a632d"/>
+  <circle cx="142" cy="110" r="3" fill="#2a632d"/>
+  <path d="M150,96 L172,98 L170,116 L150,120 Z" fill="#000000" fill-opacity="0.15"/>
+  <path d="M94,96 Q98,72 118,68 Q104,80 102,98 Z M118,158 L124,158 L128,214 L124,214 Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

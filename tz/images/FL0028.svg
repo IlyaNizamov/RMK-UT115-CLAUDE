@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Калла</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <polygon points="132,225.5 131.6,220.9 131.2,216.3 130.9,211.7 130.7,207 130.5,202.3 130.3,197.6 130.2,192.8 130.2,187.9 130.2,183 130.2,178.1 130.3,173.2 130.5,168.1 130.7,163.1 130.9,158 131.2,152.9 131.6,147.7 132,142.5 132.4,137.2 132.9,131.9 133.5,126.6 122.5,125.4 121.9,130.8 121.4,136.2 120.9,141.5 120.4,146.9 120,152.1 119.7,157.4 119.4,162.5 119.1,167.7 118.9,172.8 118.8,177.9 118.7,182.9 118.6,187.9 118.6,192.9 118.7,197.8 118.8,202.7 118.9,207.5 119.1,212.3 119.4,217.1 119.7,221.8 120,226.5" fill="#4f8a3c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 130 C110 114 90 86 84 58 C80 38 94 24 116 22 C140 20 160 26 174 18 C168 42 158 72 146 98 C140 112 134 122 128 130 Z" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M92 52 C94 36 110 30 128 30 C146 30 158 28 166 24 C152 40 132 54 112 58 C102 60 94 58 92 52 Z" fill="#e4dccb" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M114 80 C108 66 110 50 118 38 C128 48 128 66 122 80 Z" fill="#f2c200" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 130 C112 110 100 86 96 62 C108 72 122 74 136 72 C142 90 138 112 128 130 Z" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M104 74 C108 92 116 106 124 116 C116 100 112 88 110 76 Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

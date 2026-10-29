@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Сумочка для букета большая</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <path d="M120,60 C120,-11 176,-11 176,60" fill="none" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="38,72 78,52 218,52 178,72" fill="#64484e" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="178,72 218,52 218,202 178,222" fill="#9a6f78" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="198,62 186,124.5 198,212" fill="none" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="38" y="72" width="140" height="150" fill="#b5838d" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="38" y1="94" x2="178" y2="94" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="48,102 58,102 58,212 48,212" fill="#ffffff" fill-opacity="0.35"/>
+  <path d="M80,82 C80,9 136,9 136,82" fill="none" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="80" cy="82" r="4" fill="#2b2b2b"/>
+  <circle cx="136" cy="82" r="4" fill="#2b2b2b"/>
+</svg>

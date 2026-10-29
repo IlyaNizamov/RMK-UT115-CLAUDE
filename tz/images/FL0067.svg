@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Ящик деревянный малый</title>
+  <ellipse cx="128" cy="236" rx="72" ry="9" fill="#000000" fill-opacity="0.10"/>
+  <polygon points="64,96 192,96 192,132 64,132" fill="#c19a6b" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="64,96 192,96 192,132 64,132" fill="#000000" fill-opacity="0.15"/>
+  <polygon points="36,132 56,96 68,96 50,132" fill="#caa981" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="220,132 200,96 188,96 206,132" fill="#caa981" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="36" y="130" width="184" height="40" rx="3" fill="#c19a6b" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="36" y="172" width="184" height="40" rx="3" fill="#c19a6b" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="92" cy="144" rx="20" ry="2.5" fill="#876c4b"/>
+  <ellipse cx="150" cy="158" rx="20" ry="2.5" fill="#876c4b"/>
+  <ellipse cx="110" cy="186" rx="20" ry="2.5" fill="#876c4b"/>
+  <ellipse cx="172" cy="196" rx="20" ry="2.5" fill="#876c4b"/>
+  <rect x="32" y="126" width="20" height="90" rx="3" fill="#9a7b56" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="204" y="126" width="20" height="90" rx="3" fill="#9a7b56" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M58,136 L198,136 L198,142 L58,142 Z M58,178 L198,178 L198,184 L58,184 Z" fill="#ffffff" fill-opacity="0.35"/>
+  <circle cx="42" cy="150" r="3.5" fill="#2b2b2b"/>
+  <circle cx="42" cy="192" r="3.5" fill="#2b2b2b"/>
+  <circle cx="214" cy="150" r="3.5" fill="#2b2b2b"/>
+  <circle cx="214" cy="192" r="3.5" fill="#2b2b2b"/>
+</svg>

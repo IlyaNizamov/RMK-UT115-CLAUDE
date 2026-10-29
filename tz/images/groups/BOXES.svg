@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Коробки и корзины</title>
+  <circle cx="128" cy="128" r="116" fill="#f7f4ee" stroke="#2b2b2b" stroke-width="4"/>
+  <path d="M72 110L72 186A56 16 0 0 0 184 186L184 110Z" fill="#8b5a2b" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M156 110L184 110L184 186A56 16 0 0 1 156 200Z" fill="#000000" fill-opacity="0.15"/>
+  <rect x="120" y="112" width="16" height="88" fill="#f2c94c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M64 92L64 112A64 18 0 0 0 192 112L192 92Z" fill="#a8743f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="128" cy="92" rx="64" ry="18" fill="#b98550" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="120" y="94" width="16" height="34" fill="#f2c94c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 84L94 62Q84 84 96 98Z" fill="#f2c94c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 84L162 62Q172 84 160 98Z" fill="#f2c94c" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="128" cy="84" r="9" fill="#e0b02f" stroke="#2b2b2b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M82 120L96 122L96 194L82 190Z" fill="#ffffff" fill-opacity="0.35"/>
+</svg>

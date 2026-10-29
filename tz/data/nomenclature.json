@@ -1,0 +1,1597 @@
+{
+  "meta": {
+    "title": "Номенклатура небольшого цветочного магазина",
+    "source": {
+      "name": "БукетОпт, прайс-лист",
+      "url": "https://buketopt.ru/information/prays-list/",
+      "fetched": "2026-10-21",
+      "snapshot": "data/source/buketopt-prays-list.html",
+      "sha256": "7d3dd16f9d6005153d11bf8bcea0b1ce9a7da1dd1c0e9037451bf508d8f61c63",
+      "rowsInSource": 205,
+      "column": "Цена от 1 шт"
+    },
+    "currency": "RUB",
+    "priceType": "Розничная",
+    "vat": "Без НДС",
+    "barcodes": "EAN-13 внутренние, префикс 200",
+    "counts": {
+      "groups": 9,
+      "items": 75
+    }
+  },
+  "groups": [
+    {
+      "code": "ROSES",
+      "name": "Розы",
+      "order": 1,
+      "color": "#c8102e"
+    },
+    {
+      "code": "CHRYS",
+      "name": "Хризантемы",
+      "order": 2,
+      "color": "#e8b400"
+    },
+    {
+      "code": "FLOWERS",
+      "name": "Цветы поштучно",
+      "order": 3,
+      "color": "#d6457a"
+    },
+    {
+      "code": "ORCHIDS",
+      "name": "Орхидеи",
+      "order": 4,
+      "color": "#9b4dca"
+    },
+    {
+      "code": "GREEN",
+      "name": "Зелень и наполнители",
+      "order": 5,
+      "color": "#3a8d3a"
+    },
+    {
+      "code": "DRIED",
+      "name": "Сухоцветы",
+      "order": 6,
+      "color": "#b08850"
+    },
+    {
+      "code": "PACK",
+      "name": "Упаковка и ленты",
+      "order": 7,
+      "color": "#4a7bb7"
+    },
+    {
+      "code": "BOXES",
+      "name": "Коробки и корзины",
+      "order": 8,
+      "color": "#8b5a2b"
+    },
+    {
+      "code": "GIFTS",
+      "name": "Подарки и аксессуары",
+      "order": 9,
+      "color": "#e07a1f"
+    }
+  ],
+  "items": [
+    {
+      "code": "ЦВ-0001",
+      "article": "FL0001",
+      "name": "Роза Эквадор 40 см красная",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 150,
+      "barcode": "2000000000015",
+      "image": {
+        "file": "images/FL0001.svg",
+        "look": "роза на стебле, бутон крупный",
+        "colors": [
+          "#c8102e"
+        ]
+      },
+      "source": {
+        "name": "Роза 40 Эквадор красная",
+        "price": 150
+      }
+    },
+    {
+      "code": "ЦВ-0002",
+      "article": "FL0002",
+      "name": "Роза Эквадор 40 см белая",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 150,
+      "barcode": "2000000000022",
+      "image": {
+        "file": "images/FL0002.svg",
+        "look": "роза на стебле, бутон крупный",
+        "colors": [
+          "#f7f4ee"
+        ]
+      },
+      "source": {
+        "name": "Роза 40 Эквадор белая",
+        "price": 150
+      }
+    },
+    {
+      "code": "ЦВ-0003",
+      "article": "FL0003",
+      "name": "Роза Эквадор 60-70 см Эксплорер красная",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 230,
+      "barcode": "2000000000039",
+      "image": {
+        "file": "images/FL0003.svg",
+        "look": "роза на длинном стебле, тёмно-красный бархатный бутон",
+        "colors": [
+          "#9e0b1f"
+        ]
+      },
+      "source": {
+        "name": "Роза 60-70! Эквадор красная Эксплорер",
+        "price": 230
+      }
+    },
+    {
+      "code": "ЦВ-0004",
+      "article": "FL0004",
+      "name": "Роза Эквадор 60-70 см Мондиаль белая",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 230,
+      "barcode": "2000000000046",
+      "image": {
+        "file": "images/FL0004.svg",
+        "look": "роза на длинном стебле, кремово-белый бутон",
+        "colors": [
+          "#fbf6e9"
+        ]
+      },
+      "source": {
+        "name": "Роза 60-70! Эквадор белая Мондиаль",
+        "price": 230
+      }
+    },
+    {
+      "code": "ЦВ-0005",
+      "article": "FL0005",
+      "name": "Роза Эквадор 60-70 см радужная",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 300,
+      "barcode": "2000000000053",
+      "image": {
+        "file": "images/FL0005.svg",
+        "look": "роза с разноцветными лепестками",
+        "colors": [
+          "#e63946",
+          "#f4a261",
+          "#2a9d8f",
+          "#457b9d",
+          "#8e44ad"
+        ]
+      },
+      "source": {
+        "name": "Роза 60-70 Эквадор радужная/синяя",
+        "price": 300
+      }
+    },
+    {
+      "code": "ЦВ-0006",
+      "article": "FL0006",
+      "name": "Роза пионовидная Премиум 50 см",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 300,
+      "barcode": "2000000000060",
+      "image": {
+        "file": "images/FL0006.svg",
+        "look": "пионовидная роза, пышный махровый бутон",
+        "colors": [
+          "#f4a6b8"
+        ]
+      },
+      "source": {
+        "name": "Роза 50 Эквадор Премиум пионовидная",
+        "price": 300
+      }
+    },
+    {
+      "code": "ЦВ-0007",
+      "article": "FL0007",
+      "name": "Роза Мандала 50-60 см",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 400,
+      "barcode": "2000000000077",
+      "image": {
+        "file": "images/FL0007.svg",
+        "look": "роза с лепестками в два тона",
+        "colors": [
+          "#f6c445",
+          "#e8590c"
+        ]
+      },
+      "source": {
+        "name": "Роза 50-60 Мандала",
+        "price": 400
+      }
+    },
+    {
+      "code": "ЦВ-0008",
+      "article": "FL0008",
+      "name": "Роза Эквадор 50 см чёрная Премиум",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 400,
+      "barcode": "2000000000084",
+      "image": {
+        "file": "images/FL0008.svg",
+        "look": "роза почти чёрного бордового цвета",
+        "colors": [
+          "#3d0a12"
+        ]
+      },
+      "source": {
+        "name": "Роза 50 Эквадор микс  ЧЕРНАЯ Премиум",
+        "price": 400
+      }
+    },
+    {
+      "code": "ЦВ-0009",
+      "article": "FL0009",
+      "name": "Роза Эквадор Премиум 110-120 см",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 600,
+      "barcode": "2000000000091",
+      "image": {
+        "file": "images/FL0009.svg",
+        "look": "роза на очень длинном стебле",
+        "colors": [
+          "#d1203f"
+        ]
+      },
+      "source": {
+        "name": "Роза 110-120 Эквадор Премиум высокая",
+        "price": 600
+      }
+    },
+    {
+      "code": "ЦВ-0010",
+      "article": "FL0010",
+      "name": "Роза кустовая",
+      "group": "ROSES",
+      "unit": "ветка",
+      "price": 450,
+      "barcode": "2000000000107",
+      "image": {
+        "file": "images/FL0010.svg",
+        "look": "ветка с несколькими мелкими бутонами",
+        "colors": [
+          "#f08aa0"
+        ]
+      },
+      "source": {
+        "name": "Роза кустовая",
+        "price": 450
+      }
+    },
+    {
+      "code": "ЦВ-0011",
+      "article": "FL0011",
+      "name": "Роза кустовая пионовидная",
+      "group": "ROSES",
+      "unit": "ветка",
+      "price": 450,
+      "barcode": "2000000000114",
+      "image": {
+        "file": "images/FL0011.svg",
+        "look": "ветка с несколькими пышными бутонами",
+        "colors": [
+          "#f7c5d0"
+        ]
+      },
+      "source": {
+        "name": "Роза кустовая пионовидная",
+        "price": 450
+      }
+    },
+    {
+      "code": "ЦВ-0012",
+      "article": "FL0012",
+      "name": "Роза Кения 40 см",
+      "group": "ROSES",
+      "unit": "шт",
+      "price": 100,
+      "barcode": "2000000000121",
+      "image": {
+        "file": "images/FL0012.svg",
+        "look": "небольшая роза на коротком стебле",
+        "colors": [
+          "#ff6f91"
+        ]
+      },
+      "source": {
+        "name": "Роза Кения поштучно / розница",
+        "price": 100
+      }
+    },
+    {
+      "code": "ЦВ-0013",
+      "article": "FL0013",
+      "name": "Хризантема кустовая",
+      "group": "CHRYS",
+      "unit": "ветка",
+      "price": 250,
+      "barcode": "2000000000138",
+      "image": {
+        "file": "images/FL0013.svg",
+        "look": "ветка с несколькими цветками-ромашками",
+        "colors": [
+          "#f5d000"
+        ]
+      },
+      "source": {
+        "name": "Хризантема кустовая (шт.)",
+        "price": 250
+      }
+    },
+    {
+      "code": "ЦВ-0014",
+      "article": "FL0014",
+      "name": "Хризантема кустовая Сантини",
+      "group": "CHRYS",
+      "unit": "ветка",
+      "price": 200,
+      "barcode": "2000000000145",
+      "image": {
+        "file": "images/FL0014.svg",
+        "look": "ветка с мелкими шаровидными цветками",
+        "colors": [
+          "#a7d129"
+        ]
+      },
+      "source": {
+        "name": "Хризантема кустовая \"Сантини\" (шт)",
+        "price": 200
+      }
+    },
+    {
+      "code": "ЦВ-0015",
+      "article": "FL0015",
+      "name": "Хризантема одиночная Анастасия",
+      "group": "CHRYS",
+      "unit": "шт",
+      "price": 350,
+      "barcode": "2000000000152",
+      "image": {
+        "file": "images/FL0015.svg",
+        "look": "крупный цветок с тонкими игольчатыми лепестками",
+        "colors": [
+          "#e7f3c4"
+        ]
+      },
+      "source": {
+        "name": "Хризантема одиночная \"Анастасия\"",
+        "price": 350
+      }
+    },
+    {
+      "code": "ЦВ-0016",
+      "article": "FL0016",
+      "name": "Хризантема одиночная шаровидная",
+      "group": "CHRYS",
+      "unit": "шт",
+      "price": 500,
+      "barcode": "2000000000169",
+      "image": {
+        "file": "images/FL0016.svg",
+        "look": "крупный шар из плотных лепестков",
+        "colors": [
+          "#f2f2f2"
+        ]
+      },
+      "source": {
+        "name": "Хризантема одиночная ШАР",
+        "price": 500
+      }
+    },
+    {
+      "code": "ЦВ-0017",
+      "article": "FL0017",
+      "name": "Тюльпан",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 120,
+      "barcode": "2000000000176",
+      "image": {
+        "file": "images/FL0017.svg",
+        "look": "тюльпан, бокаловидный бутон",
+        "colors": [
+          "#e63946"
+        ]
+      },
+      "source": {
+        "name": "Тюльпан поштучно СОЧИ (розница)",
+        "price": 120
+      }
+    },
+    {
+      "code": "ЦВ-0018",
+      "article": "FL0018",
+      "name": "Эустома",
+      "group": "FLOWERS",
+      "unit": "ветка",
+      "price": 400,
+      "barcode": "2000000000183",
+      "image": {
+        "file": "images/FL0018.svg",
+        "look": "ветка с нежными бутонами-колокольчиками",
+        "colors": [
+          "#b8a1d9"
+        ]
+      },
+      "source": {
+        "name": "Эустома",
+        "price": 400
+      }
+    },
+    {
+      "code": "ЦВ-0019",
+      "article": "FL0019",
+      "name": "Гербера",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 250,
+      "barcode": "2000000000190",
+      "image": {
+        "file": "images/FL0019.svg",
+        "look": "крупный плоский цветок-ромашка с тёмной серединой",
+        "colors": [
+          "#ff7b00"
+        ]
+      },
+      "source": {
+        "name": "Гербера",
+        "price": 250
+      }
+    },
+    {
+      "code": "ЦВ-0020",
+      "article": "FL0020",
+      "name": "Гербера мини",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 100,
+      "barcode": "2000000000206",
+      "image": {
+        "file": "images/FL0020.svg",
+        "look": "небольшой плоский цветок-ромашка",
+        "colors": [
+          "#ff4f79"
+        ]
+      },
+      "source": {
+        "name": "Гербера-мини",
+        "price": 100
+      }
+    },
+    {
+      "code": "ЦВ-0021",
+      "article": "FL0021",
+      "name": "Альстромерия",
+      "group": "FLOWERS",
+      "unit": "ветка",
+      "price": 200,
+      "barcode": "2000000000213",
+      "image": {
+        "file": "images/FL0021.svg",
+        "look": "ветка с пёстрыми цветками в крапинку",
+        "colors": [
+          "#f28c28",
+          "#5a2d0c"
+        ]
+      },
+      "source": {
+        "name": "Альстромерия",
+        "price": 200
+      }
+    },
+    {
+      "code": "ЦВ-0022",
+      "article": "FL0022",
+      "name": "Гвоздика красная",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 100,
+      "barcode": "2000000000220",
+      "image": {
+        "file": "images/FL0022.svg",
+        "look": "гвоздика с резными лепестками",
+        "colors": [
+          "#d00000"
+        ]
+      },
+      "source": {
+        "name": "Гвоздика красная",
+        "price": 100
+      }
+    },
+    {
+      "code": "ЦВ-0023",
+      "article": "FL0023",
+      "name": "Гвоздика кустовая",
+      "group": "FLOWERS",
+      "unit": "ветка",
+      "price": 120,
+      "barcode": "2000000000237",
+      "image": {
+        "file": "images/FL0023.svg",
+        "look": "ветка с несколькими мелкими гвоздиками",
+        "colors": [
+          "#f4a0c0"
+        ]
+      },
+      "source": {
+        "name": "Гвоздика кустовая",
+        "price": 120
+      }
+    },
+    {
+      "code": "ЦВ-0024",
+      "article": "FL0024",
+      "name": "Ирис",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 180,
+      "barcode": "2000000000244",
+      "image": {
+        "file": "images/FL0024.svg",
+        "look": "ирис с опущенными лепестками",
+        "colors": [
+          "#4b3fa0",
+          "#f2c200"
+        ]
+      },
+      "source": {
+        "name": "Ирис",
+        "price": 180
+      }
+    },
+    {
+      "code": "ЦВ-0025",
+      "article": "FL0025",
+      "name": "Лилия",
+      "group": "FLOWERS",
+      "unit": "ветка",
+      "price": 700,
+      "barcode": "2000000000251",
+      "image": {
+        "file": "images/FL0025.svg",
+        "look": "ветка с крупными звёздчатыми цветками",
+        "colors": [
+          "#ffffff",
+          "#f0a6c0"
+        ]
+      },
+      "source": {
+        "name": "Лилия Голландия",
+        "price": 700
+      }
+    },
+    {
+      "code": "ЦВ-0026",
+      "article": "FL0026",
+      "name": "Пион",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 550,
+      "barcode": "2000000000268",
+      "image": {
+        "file": "images/FL0026.svg",
+        "look": "пышный махровый пион",
+        "colors": [
+          "#f39bb5"
+        ]
+      },
+      "source": {
+        "name": "Пион",
+        "price": 550
+      }
+    },
+    {
+      "code": "ЦВ-0027",
+      "article": "FL0027",
+      "name": "Подсолнух",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 350,
+      "barcode": "2000000000275",
+      "image": {
+        "file": "images/FL0027.svg",
+        "look": "подсолнух с тёмной серединой",
+        "colors": [
+          "#ffc300",
+          "#4a2c0a"
+        ]
+      },
+      "source": {
+        "name": "Подсолнух",
+        "price": 350
+      }
+    },
+    {
+      "code": "ЦВ-0028",
+      "article": "FL0028",
+      "name": "Калла",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 700,
+      "barcode": "2000000000282",
+      "image": {
+        "file": "images/FL0028.svg",
+        "look": "калла, цветок-воронка",
+        "colors": [
+          "#ffffff"
+        ]
+      },
+      "source": {
+        "name": "Калла",
+        "price": 700
+      }
+    },
+    {
+      "code": "ЦВ-0029",
+      "article": "FL0029",
+      "name": "Гортензия",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 600,
+      "barcode": "2000000000299",
+      "image": {
+        "file": "images/FL0029.svg",
+        "look": "пышная шапка из мелких цветков",
+        "colors": [
+          "#7fa7e0",
+          "#c7b8ea"
+        ]
+      },
+      "source": {
+        "name": "Гортензия Колумбия",
+        "price": 600
+      }
+    },
+    {
+      "code": "ЦВ-0030",
+      "article": "FL0030",
+      "name": "Матиола",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 300,
+      "barcode": "2000000000305",
+      "image": {
+        "file": "images/FL0030.svg",
+        "look": "колос из плотных мелких цветков",
+        "colors": [
+          "#c48ad8"
+        ]
+      },
+      "source": {
+        "name": "Матиола",
+        "price": 300
+      }
+    },
+    {
+      "code": "ЦВ-0031",
+      "article": "FL0031",
+      "name": "Фрезия",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 150,
+      "barcode": "2000000000312",
+      "image": {
+        "file": "images/FL0031.svg",
+        "look": "изогнутая веточка с бутонами-воронками",
+        "colors": [
+          "#ffe066"
+        ]
+      },
+      "source": {
+        "name": "Фрезия",
+        "price": 150
+      }
+    },
+    {
+      "code": "ЦВ-0032",
+      "article": "FL0032",
+      "name": "Ранункулюс",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 200,
+      "barcode": "2000000000329",
+      "image": {
+        "file": "images/FL0032.svg",
+        "look": "круглый многослойный бутон",
+        "colors": [
+          "#ff9a76"
+        ]
+      },
+      "source": {
+        "name": "Ранункулюс",
+        "price": 200
+      }
+    },
+    {
+      "code": "ЦВ-0033",
+      "article": "FL0033",
+      "name": "Ромашка кустовая",
+      "group": "FLOWERS",
+      "unit": "ветка",
+      "price": 200,
+      "barcode": "2000000000336",
+      "image": {
+        "file": "images/FL0033.svg",
+        "look": "ветка с белыми ромашками",
+        "colors": [
+          "#ffffff",
+          "#f6c90e"
+        ]
+      },
+      "source": {
+        "name": "Ромашка кустовая",
+        "price": 200
+      }
+    },
+    {
+      "code": "ЦВ-0034",
+      "article": "FL0034",
+      "name": "Антуриум",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 700,
+      "barcode": "2000000000343",
+      "image": {
+        "file": "images/FL0034.svg",
+        "look": "глянцевый лист-сердце с початком",
+        "colors": [
+          "#c1121f",
+          "#f2e8cf"
+        ]
+      },
+      "source": {
+        "name": "Антуриум",
+        "price": 700
+      }
+    },
+    {
+      "code": "ЦВ-0035",
+      "article": "FL0035",
+      "name": "Протея",
+      "group": "FLOWERS",
+      "unit": "шт",
+      "price": 1750,
+      "barcode": "2000000000350",
+      "image": {
+        "file": "images/FL0035.svg",
+        "look": "крупная чаша с заострёнными лепестками",
+        "colors": [
+          "#e9a6a6"
+        ]
+      },
+      "source": {
+        "name": "Протея",
+        "price": 1750
+      }
+    },
+    {
+      "code": "ЦВ-0036",
+      "article": "FL0036",
+      "name": "Сирень",
+      "group": "FLOWERS",
+      "unit": "ветка",
+      "price": 600,
+      "barcode": "2000000000367",
+      "image": {
+        "file": "images/FL0036.svg",
+        "look": "ветка с гроздью мелких цветков",
+        "colors": [
+          "#b497d6"
+        ]
+      },
+      "source": {
+        "name": "Сирень",
+        "price": 600
+      }
+    },
+    {
+      "code": "ЦВ-0037",
+      "article": "FL0037",
+      "name": "Орхидея Фаленопсис, 1 цветок",
+      "group": "ORCHIDS",
+      "unit": "шт",
+      "price": 350,
+      "barcode": "2000000000374",
+      "image": {
+        "file": "images/FL0037.svg",
+        "look": "один цветок орхидеи-бабочки",
+        "colors": [
+          "#e0529c"
+        ]
+      },
+      "source": {
+        "name": "Орхидея Фаленопсис 1 цветок",
+        "price": 350
+      }
+    },
+    {
+      "code": "ЦВ-0038",
+      "article": "FL0038",
+      "name": "Орхидея Цимбидиум, 1 цветок",
+      "group": "ORCHIDS",
+      "unit": "шт",
+      "price": 350,
+      "barcode": "2000000000381",
+      "image": {
+        "file": "images/FL0038.svg",
+        "look": "один цветок орхидеи с пятнистой губой",
+        "colors": [
+          "#c5e384",
+          "#8b1e3f"
+        ]
+      },
+      "source": {
+        "name": "Орхидея Цимбидиум 1 цветок",
+        "price": 350
+      }
+    },
+    {
+      "code": "ЦВ-0039",
+      "article": "FL0039",
+      "name": "Орхидея Ванда, 1 цветок",
+      "group": "ORCHIDS",
+      "unit": "шт",
+      "price": 700,
+      "barcode": "2000000000398",
+      "image": {
+        "file": "images/FL0039.svg",
+        "look": "один цветок орхидеи с сетчатым узором",
+        "colors": [
+          "#5e3a9e"
+        ]
+      },
+      "source": {
+        "name": "Орхидея Ванда 1 цветок",
+        "price": 700
+      }
+    },
+    {
+      "code": "ЦВ-0040",
+      "article": "FL0040",
+      "name": "Орхидея Фаленопсис в горшке",
+      "group": "ORCHIDS",
+      "unit": "шт",
+      "price": 3100,
+      "barcode": "2000000000404",
+      "image": {
+        "file": "images/FL0040.svg",
+        "look": "орхидея в горшке, дуга цветков",
+        "colors": [
+          "#ffffff",
+          "#c0398a"
+        ]
+      },
+      "source": {
+        "name": "Орхидея Фаленопсис (горшечка)",
+        "price": 3100
+      }
+    },
+    {
+      "code": "ЦВ-0041",
+      "article": "FL0041",
+      "name": "Гипсофила",
+      "group": "GREEN",
+      "unit": "ветка",
+      "price": 250,
+      "barcode": "2000000000411",
+      "image": {
+        "file": "images/FL0041.svg",
+        "look": "облако из мелких белых цветков",
+        "colors": [
+          "#ffffff"
+        ]
+      },
+      "source": {
+        "name": "Гипсофила ветка",
+        "price": 250
+      }
+    },
+    {
+      "code": "ЦВ-0042",
+      "article": "FL0042",
+      "name": "Эвкалипт",
+      "group": "GREEN",
+      "unit": "ветка",
+      "price": 300,
+      "barcode": "2000000000428",
+      "image": {
+        "file": "images/FL0042.svg",
+        "look": "ветка с круглыми серо-зелёными листьями",
+        "colors": [
+          "#8fb3a3"
+        ]
+      },
+      "source": {
+        "name": "Эвкалипт поштучно",
+        "price": 300
+      }
+    },
+    {
+      "code": "ЦВ-0043",
+      "article": "FL0043",
+      "name": "Рускус",
+      "group": "GREEN",
+      "unit": "ветка",
+      "price": 40,
+      "barcode": "2000000000435",
+      "image": {
+        "file": "images/FL0043.svg",
+        "look": "ветка с мелкими заострёнными листьями",
+        "colors": [
+          "#2e7d32"
+        ]
+      },
+      "source": {
+        "name": "Рускус Сочи",
+        "price": 40
+      }
+    },
+    {
+      "code": "ЦВ-0044",
+      "article": "FL0044",
+      "name": "Аспидистра",
+      "group": "GREEN",
+      "unit": "шт",
+      "price": 240,
+      "barcode": "2000000000442",
+      "image": {
+        "file": "images/FL0044.svg",
+        "look": "один широкий длинный лист",
+        "colors": [
+          "#1b5e20"
+        ]
+      },
+      "source": {
+        "name": "Аспидистра",
+        "price": 240
+      }
+    },
+    {
+      "code": "ЦВ-0045",
+      "article": "FL0045",
+      "name": "Салал",
+      "group": "GREEN",
+      "unit": "ветка",
+      "price": 50,
+      "barcode": "2000000000459",
+      "image": {
+        "file": "images/FL0045.svg",
+        "look": "ветка с овальными глянцевыми листьями",
+        "colors": [
+          "#2f6b3a"
+        ]
+      },
+      "source": {
+        "name": "Салал",
+        "price": 50
+      }
+    },
+    {
+      "code": "ЦВ-0046",
+      "article": "FL0046",
+      "name": "Папоротник",
+      "group": "GREEN",
+      "unit": "шт",
+      "price": 130,
+      "barcode": "2000000000466",
+      "image": {
+        "file": "images/FL0046.svg",
+        "look": "перистый лист папоротника",
+        "colors": [
+          "#4caf50"
+        ]
+      },
+      "source": {
+        "name": "Папоротник",
+        "price": 130
+      }
+    },
+    {
+      "code": "ЦВ-0047",
+      "article": "FL0047",
+      "name": "Гиперикум",
+      "group": "GREEN",
+      "unit": "ветка",
+      "price": 150,
+      "barcode": "2000000000473",
+      "image": {
+        "file": "images/FL0047.svg",
+        "look": "ветка с гроздью круглых ягод",
+        "colors": [
+          "#b71c1c"
+        ]
+      },
+      "source": {
+        "name": "Гиперикум",
+        "price": 150
+      }
+    },
+    {
+      "code": "ЦВ-0048",
+      "article": "FL0048",
+      "name": "Лимониум",
+      "group": "GREEN",
+      "unit": "ветка",
+      "price": 170,
+      "barcode": "2000000000480",
+      "image": {
+        "file": "images/FL0048.svg",
+        "look": "ветка с мелкими сиреневыми цветками",
+        "colors": [
+          "#9575cd"
+        ]
+      },
+      "source": {
+        "name": "Лимониум",
+        "price": 170
+      }
+    },
+    {
+      "code": "ЦВ-0049",
+      "article": "FL0049",
+      "name": "Солидаго",
+      "group": "GREEN",
+      "unit": "ветка",
+      "price": 120,
+      "barcode": "2000000000497",
+      "image": {
+        "file": "images/FL0049.svg",
+        "look": "ветка с жёлтыми метёлками",
+        "colors": [
+          "#f9d71c"
+        ]
+      },
+      "source": {
+        "name": "Солидаго",
+        "price": 120
+      }
+    },
+    {
+      "code": "ЦВ-0050",
+      "article": "FL0050",
+      "name": "Лаванда, полпучка",
+      "group": "DRIED",
+      "unit": "пучок",
+      "price": 300,
+      "barcode": "2000000000503",
+      "image": {
+        "file": "images/FL0050.svg",
+        "look": "пучок колосков лаванды",
+        "colors": [
+          "#8e7cc3"
+        ]
+      },
+      "source": {
+        "name": "Лаванда 0,5 (1/2 пучка)",
+        "price": 300
+      }
+    },
+    {
+      "code": "ЦВ-0051",
+      "article": "FL0051",
+      "name": "Сухоцветы микс, 0,1 пучка",
+      "group": "DRIED",
+      "unit": "пучок",
+      "price": 100,
+      "barcode": "2000000000510",
+      "image": {
+        "file": "images/FL0051.svg",
+        "look": "пучок пёстрых сухих колосков",
+        "colors": [
+          "#d9b38c",
+          "#c97b63"
+        ]
+      },
+      "source": {
+        "name": "Сухоцветы пучками, 0.1 пучка",
+        "price": 100
+      }
+    },
+    {
+      "code": "ЦВ-0052",
+      "article": "FL0052",
+      "name": "Сухоцвет колосок",
+      "group": "DRIED",
+      "unit": "шт",
+      "price": 30,
+      "barcode": "2000000000527",
+      "image": {
+        "file": "images/FL0052.svg",
+        "look": "один сухой колосок",
+        "colors": [
+          "#d8c39a"
+        ]
+      },
+      "source": {
+        "name": "Сухоцвет, колосок 30 (поштучно)",
+        "price": 30
+      }
+    },
+    {
+      "code": "ЦВ-0053",
+      "article": "FL0053",
+      "name": "Хлопок, 1 коробочка",
+      "group": "DRIED",
+      "unit": "шт",
+      "price": 30,
+      "barcode": "2000000000534",
+      "image": {
+        "file": "images/FL0053.svg",
+        "look": "веточка с белой коробочкой хлопка",
+        "colors": [
+          "#ffffff",
+          "#6d4c41"
+        ]
+      },
+      "source": {
+        "name": "Хлопок 1 коробочка",
+        "price": 30
+      }
+    },
+    {
+      "code": "ЦВ-0054",
+      "article": "FL0054",
+      "name": "Упаковка флористическая малая",
+      "group": "PACK",
+      "unit": "шт",
+      "price": 100,
+      "barcode": "2000000000541",
+      "image": {
+        "file": "images/FL0054.svg",
+        "look": "лист упаковочной бумаги конусом, малый",
+        "colors": [
+          "#e8d7c3"
+        ]
+      },
+      "source": {
+        "name": "Упаковка малая флористическая",
+        "price": 100
+      }
+    },
+    {
+      "code": "ЦВ-0055",
+      "article": "FL0055",
+      "name": "Упаковка флористическая стандарт",
+      "group": "PACK",
+      "unit": "шт",
+      "price": 200,
+      "barcode": "2000000000558",
+      "image": {
+        "file": "images/FL0055.svg",
+        "look": "лист упаковочной бумаги конусом",
+        "colors": [
+          "#d9c2a7"
+        ]
+      },
+      "source": {
+        "name": "Упаковка стандарт флористическая",
+        "price": 200
+      }
+    },
+    {
+      "code": "ЦВ-0056",
+      "article": "FL0056",
+      "name": "Упаковка флористическая XL",
+      "group": "PACK",
+      "unit": "шт",
+      "price": 270,
+      "barcode": "2000000000565",
+      "image": {
+        "file": "images/FL0056.svg",
+        "look": "большой лист упаковочной бумаги конусом",
+        "colors": [
+          "#c9ae8f"
+        ]
+      },
+      "source": {
+        "name": "Упаковка XL флористическая",
+        "price": 270
+      }
+    },
+    {
+      "code": "ЦВ-0057",
+      "article": "FL0057",
+      "name": "Бумага тишью, 1 лист",
+      "group": "PACK",
+      "unit": "лист",
+      "price": 50,
+      "barcode": "2000000000572",
+      "image": {
+        "file": "images/FL0057.svg",
+        "look": "тонкий полупрозрачный лист бумаги",
+        "colors": [
+          "#f8e1e7"
+        ]
+      },
+      "source": {
+        "name": "Упаковка тишью 1 лист",
+        "price": 50
+      }
+    },
+    {
+      "code": "ЦВ-0058",
+      "article": "FL0058",
+      "name": "Лента атласная на 1 цветок",
+      "group": "PACK",
+      "unit": "шт",
+      "price": 20,
+      "barcode": "2000000000589",
+      "image": {
+        "file": "images/FL0058.svg",
+        "look": "короткий бантик из ленты",
+        "colors": [
+          "#d62828"
+        ]
+      },
+      "source": {
+        "name": "Лента 1 цветок атласная",
+        "price": 20
+      }
+    },
+    {
+      "code": "ЦВ-0059",
+      "article": "FL0059",
+      "name": "Лента атласная стандарт",
+      "group": "PACK",
+      "unit": "шт",
+      "price": 50,
+      "barcode": "2000000000596",
+      "image": {
+        "file": "images/FL0059.svg",
+        "look": "бант из атласной ленты",
+        "colors": [
+          "#c9184a"
+        ]
+      },
+      "source": {
+        "name": "Лента стандарт атласная",
+        "price": 50
+      }
+    },
+    {
+      "code": "ЦВ-0060",
+      "article": "FL0060",
+      "name": "Лента атласная XL",
+      "group": "PACK",
+      "unit": "шт",
+      "price": 170,
+      "barcode": "2000000000602",
+      "image": {
+        "file": "images/FL0060.svg",
+        "look": "большой пышный бант",
+        "colors": [
+          "#a4133c"
+        ]
+      },
+      "source": {
+        "name": "Лента XL атласная",
+        "price": 170
+      }
+    },
+    {
+      "code": "ЦВ-0061",
+      "article": "FL0061",
+      "name": "Коробка шляпная малая",
+      "group": "BOXES",
+      "unit": "шт",
+      "price": 400,
+      "barcode": "2000000000619",
+      "image": {
+        "file": "images/FL0061.svg",
+        "look": "круглая шляпная коробка, малая",
+        "colors": [
+          "#222222"
+        ]
+      },
+      "source": {
+        "name": "Коробка шляпная малая 400",
+        "price": 400
+      }
+    },
+    {
+      "code": "ЦВ-0062",
+      "article": "FL0062",
+      "name": "Коробка шляпная средняя",
+      "group": "BOXES",
+      "unit": "шт",
+      "price": 600,
+      "barcode": "2000000000626",
+      "image": {
+        "file": "images/FL0062.svg",
+        "look": "круглая шляпная коробка, средняя",
+        "colors": [
+          "#f1e3d3"
+        ]
+      },
+      "source": {
+        "name": "Коробка шляпная средняя 600",
+        "price": 600
+      }
+    },
+    {
+      "code": "ЦВ-0063",
+      "article": "FL0063",
+      "name": "Коробка шляпная большая",
+      "group": "BOXES",
+      "unit": "шт",
+      "price": 700,
+      "barcode": "2000000000633",
+      "image": {
+        "file": "images/FL0063.svg",
+        "look": "круглая шляпная коробка, большая",
+        "colors": [
+          "#b5838d"
+        ]
+      },
+      "source": {
+        "name": "Коробка шляпная большая 700",
+        "price": 700
+      }
+    },
+    {
+      "code": "ЦВ-0064",
+      "article": "FL0064",
+      "name": "Корзина плетёная малая",
+      "group": "BOXES",
+      "unit": "шт",
+      "price": 500,
+      "barcode": "2000000000640",
+      "image": {
+        "file": "images/FL0064.svg",
+        "look": "плетёная корзина с ручкой, малая",
+        "colors": [
+          "#a0743c"
+        ]
+      },
+      "source": {
+        "name": "Корзина малая 500",
+        "price": 500
+      }
+    },
+    {
+      "code": "ЦВ-0065",
+      "article": "FL0065",
+      "name": "Корзина плетёная средняя",
+      "group": "BOXES",
+      "unit": "шт",
+      "price": 700,
+      "barcode": "2000000000657",
+      "image": {
+        "file": "images/FL0065.svg",
+        "look": "плетёная корзина с ручкой, средняя",
+        "colors": [
+          "#8d6532"
+        ]
+      },
+      "source": {
+        "name": "Корзина средняя 700",
+        "price": 700
+      }
+    },
+    {
+      "code": "ЦВ-0066",
+      "article": "FL0066",
+      "name": "Корзина плетёная большая",
+      "group": "BOXES",
+      "unit": "шт",
+      "price": 900,
+      "barcode": "2000000000664",
+      "image": {
+        "file": "images/FL0066.svg",
+        "look": "плетёная корзина с ручкой, большая",
+        "colors": [
+          "#7a5628"
+        ]
+      },
+      "source": {
+        "name": "Корзина большая 900",
+        "price": 900
+      }
+    },
+    {
+      "code": "ЦВ-0067",
+      "article": "FL0067",
+      "name": "Ящик деревянный малый",
+      "group": "BOXES",
+      "unit": "шт",
+      "price": 400,
+      "barcode": "2000000000671",
+      "image": {
+        "file": "images/FL0067.svg",
+        "look": "низкий деревянный ящик из досок",
+        "colors": [
+          "#c19a6b"
+        ]
+      },
+      "source": {
+        "name": "Ящик деревянный малый",
+        "price": 400
+      }
+    },
+    {
+      "code": "ЦВ-0068",
+      "article": "FL0068",
+      "name": "Аквабокс",
+      "group": "BOXES",
+      "unit": "шт",
+      "price": 522,
+      "barcode": "2000000000688",
+      "image": {
+        "file": "images/FL0068.svg",
+        "look": "прозрачная коробка с водой для букета",
+        "colors": [
+          "#a8dadc"
+        ]
+      },
+      "source": {
+        "name": "Аквабокс",
+        "price": 522
+      }
+    },
+    {
+      "code": "ЦВ-0069",
+      "article": "FL0069",
+      "name": "Конфеты Raffaello, 150 г",
+      "group": "GIFTS",
+      "unit": "шт",
+      "price": 690,
+      "barcode": "2000000000695",
+      "image": {
+        "file": "images/FL0069.svg",
+        "look": "квадратная коробка конфет с белыми шариками",
+        "colors": [
+          "#ffffff",
+          "#c9a227"
+        ]
+      },
+      "source": {
+        "name": "Конфеты Рафаелло квадраткная коробка 150 гр.",
+        "price": 690
+      }
+    },
+    {
+      "code": "ЦВ-0070",
+      "article": "FL0070",
+      "name": "Флористическая губка (оазис)",
+      "group": "GIFTS",
+      "unit": "шт",
+      "price": 280,
+      "barcode": "2000000000701",
+      "image": {
+        "file": "images/FL0070.svg",
+        "look": "зелёный брусок флористической губки",
+        "colors": [
+          "#3c8d40"
+        ]
+      },
+      "source": {
+        "name": "Оазис 1 шт.",
+        "price": 280
+      }
+    },
+    {
+      "code": "ЦВ-0071",
+      "article": "FL0071",
+      "name": "Стаканчик для цветов",
+      "group": "GIFTS",
+      "unit": "шт",
+      "price": 90,
+      "barcode": "2000000000718",
+      "image": {
+        "file": "images/FL0071.svg",
+        "look": "бумажный стаканчик для букета",
+        "colors": [
+          "#f4d35e"
+        ]
+      },
+      "source": {
+        "name": "Стаканчик для цветов",
+        "price": 90
+      }
+    },
+    {
+      "code": "ЦВ-0072",
+      "article": "FL0072",
+      "name": "Сумочка для букета малая",
+      "group": "GIFTS",
+      "unit": "шт",
+      "price": 150,
+      "barcode": "2000000000725",
+      "image": {
+        "file": "images/FL0072.svg",
+        "look": "маленький бумажный пакет с ручками",
+        "colors": [
+          "#e5989b"
+        ]
+      },
+      "source": {
+        "name": "Сумочка малая 150",
+        "price": 150
+      }
+    },
+    {
+      "code": "ЦВ-0073",
+      "article": "FL0073",
+      "name": "Сумочка для букета большая",
+      "group": "GIFTS",
+      "unit": "шт",
+      "price": 200,
+      "barcode": "2000000000732",
+      "image": {
+        "file": "images/FL0073.svg",
+        "look": "большой бумажный пакет с ручками",
+        "colors": [
+          "#b5838d"
+        ]
+      },
+      "source": {
+        "name": "Сумочка большая 200",
+        "price": 200
+      }
+    },
+    {
+      "code": "ЦВ-0074",
+      "article": "FL0074",
+      "name": "Портбукетница",
+      "group": "GIFTS",
+      "unit": "шт",
+      "price": 180,
+      "barcode": "2000000000749",
+      "image": {
+        "file": "images/FL0074.svg",
+        "look": "держатель букета с кружевной манжетой",
+        "colors": [
+          "#ffffff"
+        ]
+      },
+      "source": {
+        "name": "Портбукетница",
+        "price": 180
+      }
+    },
+    {
+      "code": "ЦВ-0075",
+      "article": "FL0075",
+      "name": "Коробка для переноски цветов",
+      "group": "GIFTS",
+      "unit": "шт",
+      "price": 400,
+      "barcode": "2000000000756",
+      "image": {
+        "file": "images/FL0075.svg",
+        "look": "картонная коробка с ручкой",
+        "colors": [
+          "#c8a27a"
+        ]
+      },
+      "source": {
+        "name": "Коробка для переноски цветов",
+        "price": 400
+      }
+    }
+  ]
+}
